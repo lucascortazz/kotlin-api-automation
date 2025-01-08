@@ -38,9 +38,11 @@ All dependencies are managed via Gradle.
 
 ### 1. Clone the Repository
 git clone <repository-url>
+
 cd <repository-name>
 
 ### 2. Run the code
 ./gradlew build
+
 ./gradlew run
 
