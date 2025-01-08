@@ -1,0 +1,60 @@
+# Gradle
+.gradle/
+build/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.slnbin/
+*.ncrunchproject
+*.vscode/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.lock
+
+# Kotlin/Java-specific
+*.class
+*.jar
+*.war
+*.ear
+
+# Test reports
+*.html
+*.xml
+*.txt
+/reports/
+
+# Kotlin/Java build cache
+.kts-cache/
+.kotlin_cache/
+.idea_modules/
+
+# Local environment files
+.env
+.env.local
+
+# Caches and logs for JetBrains IDEs
+.idea/
+*.
